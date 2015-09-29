@@ -1,0 +1,12 @@
+Marcos,12345678901,2007-12-03,marcos@marcos.com
+Pato,55697845600,2007-12-24, pato@gmail.com
+Gabriel Raul Gonzalez,98548784521,2007-09-01,gabo@gmail.com
+Dario Martinez,32325452247,2007-10-01,m@ma.com.ar
+Maximilianito Maximo,66655478541,2007-09-30, max@petter.com
+Manuel Dario,99871012563,2007-09-29,manuel@gmail.com
+Juan Manuel Rodriguez,32145214523,2006-01-12, juan@yahoo.com.ar
+Peter Capusotto,95123578541,2007-01-12,peter@capusotto.com
+Dario Manuel,00123000000,2006-12-31,hola@chau.com.ar
+Manuela Lopez,88888888880,2007-08-12,manuela@gmail.com
+Maria De las Marias Lopez,45565445654,2007-02-07,mary@ciudad.com.ar
+Juan Loles,36525897000,2005-06-06,juanes@casa.com.ar
